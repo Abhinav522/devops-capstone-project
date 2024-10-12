@@ -1,5 +1,5 @@
 ---
-name: Issue template
+name: User Story
 about: A user story template that will help you write well-formatted user stories
 title: ''
 labels: ''
